@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-ec2": "^3.282.0"
+    "@aws-sdk/client-ec2": "^3.282.0",
+    "aws-sdk": "^2.1327.0"
   }
 }
